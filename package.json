@@ -4,7 +4,7 @@
   "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "http://github.com/wasanisan/workflows.git"
+    "url": "git@github.com:wasanisan/workflows.git"
   },
   "author": "Jamie Keomanivong",
   "devDependencies": {
